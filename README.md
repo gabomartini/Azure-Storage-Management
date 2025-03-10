@@ -4,11 +4,11 @@
 </p>
 
 #### *In this tutorial, we will:*
-*- *
+*- Create a storage account, disable public access, and set lifecycle rules.*
 
-*- Create a blob container and a time-based retention policy*
+*- Create a blob container, upload a file, and configure access.*
 
-*- *
+*- Create a file share, upload a file, and restrict network access.*
 
 #### Tasks:
  1. Set up and configure a storage account.
